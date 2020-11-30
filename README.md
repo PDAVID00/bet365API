@@ -12,7 +12,7 @@
 
 ### Features
 
-> Almost no delay in odds and live data (``0~0.2 seconds'')
+> Almost no delay in odds and live data (``0~0.2 seconds``)
 >
 > Complete odds data
 >
