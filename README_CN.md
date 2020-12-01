@@ -5,6 +5,7 @@
 
 | 数据源 | 进度 | 预计测试时间 | 
 | ------ | ------ | ------ |
+| BET365：https://www.bet365.com/ | 已完成足球  | 请联系客服 |
 | 韦德：https://www.betvictor33.com | 已完成足球  | 请联系客服 |
 | NEW BB体育：https://www.esb9658.com | 已完成足球  | 请联系客服 |
 | 平博：https://www.pinnacle888.com | 已完成足球  | 请联系客服 |
