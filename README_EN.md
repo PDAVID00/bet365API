@@ -7,6 +7,7 @@ Welcome to contact us if other APIs or platforms needed or suggested.
 
 | Data Source | Progress | Estimated Test Time |
 | ------ | ------ | ------ |
+| BET365：https://www.bet365.com/ | Football completed | Please contact customer service |
 | Betvictor: https://www.betvictor33.com | Football completed | Please contact customer service |
 | NEW BB Sports: https://www.esb9658.com | Football completed | Please contact customer service |
 | Pinnacle: https://www.pinnacle888.com | Football completed | Please contact customer service |
@@ -26,7 +27,7 @@ Welcome to contact us if other APIs or platforms needed or suggested.
 
 ### Features
 
-> Almost no delay in odds and live data (``0~0.2 seconds'')
+> Almost no delay in odds and live data (``0~0.2 seconds``)
 >
 > Complete odds data
 >
