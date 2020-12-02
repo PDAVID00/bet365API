@@ -1,37 +1,39 @@
 # FullTimeFullWin API
 
-------
 
-## requestAddress 
-```联系客户获取地址+/bet365/v0/api/FullTimeFullWin```
+## HTTP Request 
+```POST http:// Please contact us by Telegram to request address +/bet365/v0/api/FullTimeFullWin```
 
 
-## Request Example
+### Request Example
 
 ```zsh
-curl -X POST -H "Authorization: Bearer 联系客户获取token" 联系客户获取地址+//bet365/v0/api/AsianHandiCap "
+curl -X POST -H "Authorization: Bearer Please contact us by Telegram to get token" http:// request address +/bet365/v0/api/FullTimeFullWin
 ```
 ###  Request Header
 
-| 参数       | 是否必填   |  备注  |
-| --------   | -----:  | :----:  |
-| Authorization |是 |   联系客户获取7天免费试用   |
-| Method | 是支持Post请求|   POST   |
+| Parameter | Required? | Description |
+| --------   | ----- | ---- |
+| Authorization | Yes |Please contact to get 7 days free trial|
+| Method | Yes |POST|
 
-## Response Example
+## Response Parameter
 
-| 参数       | 注释   |  备注  |
-| --------   | :-----  | :----:  |
-| msg |成功，获取请求失败说明 |      |
-| code |Response 请求状态码，0是成功，其他详见错误码|      |
-| data |Response 返回对象|      |
-| data.sync_time |消息同步时间|      |
-| data.data.channel |数据返回通道|      |
-| data.data.data.team_pair |球队名称|      |
-| data.data.data.team_score |队员总分|      |
-| data.data.data.paly_time |比赛时间|      |
-| data.data.data.handicap_list |让分列表|      |
-| data.data.data.odds_list |赔率列表|      |
+|Parameter| Description |
+| --------|-----|
+| msg |Success or Request failed description|
+| code |Request status code, 0 means success, see error code for other details|
+| data |Response object|
+| data.sync_time |Message synchronization time|
+| data.data.channel |Data return channel|
+| data.data.data.team_pair |Team name|
+| data.data.data.team_score |Total team score|
+| data.data.data.play_time |Play time|
+| data.data.data.handicap_list |Handicap list|
+| data.data.data.odds_list |Odds list|
+
+### HTTP Response
+
 ```
 {
     "msg":"Success",
