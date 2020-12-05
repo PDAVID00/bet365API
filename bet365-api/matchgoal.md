@@ -1,17 +1,17 @@
 ---
-description: Please contact us by Telegram to request address and token.
+description: Please contact us by Telegram to get token.
 ---
 
 # MatchGoal API
 
 ## HTTP Request
 
-`POST http:// [request address] +/bet365/v0/api/MatchGoal`
+`POST http://api.bet365data.com/bet365/v0/api/MatchGoal`
 
 ### Request Example
 
 ```text
-curl -X POST -H "Authorization: Bearer [token]" http:// [request address] +/bet365/v0/api/MatchGoal
+curl -X POST -H "Authorization: Bearer [token]" http://api.bet365data.com/bet365/v0/api/MatchGoal
 ```
 
 ### Request Header

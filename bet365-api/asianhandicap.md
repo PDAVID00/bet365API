@@ -1,17 +1,17 @@
 ---
-description: Please contact us by Telegram to request address and token.
+description: Please contact us by Telegram to get token.
 ---
 
 # AsianHandiCap API
 
 ## HTTP Request
 
-`POST http:// [request address] +/bet365/v0/api/AsianHandiCap`
+`POST http://api.bet365data.com/bet365/v0/api/AsianHandiCap`
 
 ### Request Example
 
 ```text
-curl -X POST -H "Authorization: Bearer [token]" http:// [request address] +/bet365/v0/api/AsianHandiCap
+curl -X POST -H "Authorization: Bearer [token]" http://api.bet365data.com/bet365/v0/api/AsianHandiCap
 ```
 
 ### Request Header
