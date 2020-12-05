@@ -22,7 +22,7 @@ Welcome to contact us if other APIs or platforms needed or suggested.
 
 ## Features
 
-> Almost no delay in odds and live data \(`0~1 seconds`\)
+> Almost no delay in odds and live data \(`1 seconds`\)
 >
 > Complete odds data
 >
@@ -42,7 +42,7 @@ Welcome to contact us if other APIs or platforms needed or suggested.
 
 > All API provide`One week free trial`
 >
-> Odds API`300 USD/Month`
+> Odds API`150 USD/Month`
 
 ## Purchase
 
