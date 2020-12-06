@@ -52,7 +52,7 @@ Welcome to contact us if other APIs or platforms needed or suggested.
 
 > All API provide``One week free trial``
 >
-> Odds API``300 USD/Month``
+> Odds API``150 USD/Month``
 
 
 
