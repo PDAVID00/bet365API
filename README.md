@@ -1,18 +1,21 @@
 # Welcome to use BET365 API
 
+![image](http://github.com/BET365-API/BET365-API/Example/bet365api.png)
+
+
 ### Functions
 
 - [X] Provide``bet365``ongoing football score data
 - [X] Provide``bet365``football real-time odds data
 - [X] Provide``bet365``automatic login
-- [ ] Provide``bet365``read code (under development)
-- [ ] Provide``bet365``betting (under development)
+- [X] Provide``bet365``read code
+- [X] Provide``bet365``betting
 
 
 
 ### Features
 
-> Almost no delay in odds and live data (``0~0.2 seconds``)
+> Almost no delay in odds and live data 
 >
 > Complete odds data
 >
@@ -51,12 +54,12 @@
 - [X] 提供``bet365``正在进行的足球赛事比分数据 
 - [X] 提供``bet365``足球滚球实时赔率数据
 - [X] 提供``bet365``自动登录
-- [ ] 提供``bet365``打码（开发中）
-- [ ] 提供``bet365``下注（开发中）
+- [X] 提供``bet365``打码
+- [X] 提供``bet365``下注
 
 ### 特点
 
-> 赔率和直播数据几乎无延迟(``0~0.2秒``) 
+> 赔率和直播数据几乎无延迟
 >
 > 赔率数据齐全 
 >
