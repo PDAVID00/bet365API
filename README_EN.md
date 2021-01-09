@@ -1,6 +1,6 @@
 # Welcome to use BET365 API
 
-
+![image](https://github.com/BET365-API/BET365-API/blob/main/Example/bet365api.png)
 
 ### Data acquisition progress
 Welcome to contact us if other APIs or platforms needed or suggested.
@@ -20,14 +20,14 @@ Welcome to contact us if other APIs or platforms needed or suggested.
 - [X] Provide``bet365``ongoing football score data
 - [X] Provide``bet365``football real-time odds data
 - [X] Provide``bet365``automatic login
-- [ ] Provide``bet365``read code (under development)
-- [ ] Provide``bet365``betting (under development)
+- [X] Provide``bet365``read code
+- [X] Provide``bet365``betting
 
 
 
 ### Features
 
-> Almost no delay in odds and live data (``0~0.2 seconds``)
+> Almost no delay in odds and live data
 >
 > Complete odds data
 >
