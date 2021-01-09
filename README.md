@@ -1,6 +1,6 @@
 # Welcome to use BET365 API
 
-![image](http://github.com/BET365-API/BET365-API/Example/bet365api.png)
+![image](https://github.com/BET365-API/BET365-API/main/Example/bet365api.png)
 
 
 ### Functions
