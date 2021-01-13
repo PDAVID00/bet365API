@@ -5,12 +5,12 @@
 * [x] Provide`bet365`ongoing football score data
 * [x] Provide`bet365`football real-time odds data
 * [x] Provide`bet365`automatic login
-* [ ] Provide`bet365`read code \(under development\)
-* [ ] Provide`bet365`betting \(under development\)
+* [x] Provide`bet365`read code
+* [x] Provide`bet365`betting
 
 ### Features
 
-> Almost no delay in odds and live data \(`0~1 second`\)
+> Almost no delay in odds and live data 
 >
 > Complete odds data
 >
