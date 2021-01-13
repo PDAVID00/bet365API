@@ -14,7 +14,7 @@ description: Please contact us by Telegram to get token.
 
 | Parameter | Required? | Description |
 | :--- | :--- | :--- |
-| Authorization | Yes | Please contact to get 7 days free trial |
+| KEY | Yes | Please contact to get 7 days free trial |
 | Method | Yes | GET |
 
 ## Response Parameter

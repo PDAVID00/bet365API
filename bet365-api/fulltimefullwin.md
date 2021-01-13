@@ -14,7 +14,7 @@ description: Please contact us by Telegram to get token.
 
 | Parameter | Required? | Description |
 | :--- | :--- | :--- |
-| Authorization | Yes | Please contact to get 7 days free trial |
+| KEY | Yes | Please contact to get 7 days free trial |
 | Method | Yes | GET |
 
 ## Response Parameter
@@ -25,12 +25,12 @@ description: Please contact us by Telegram to get token.
 | code | Request status code, 0 means success, see error code for other details |
 | data | Response object |
 | data.sync\_time | Message synchronization time |
-| data.data.channel | Data return channel |
-| data.data.data.team\_pair | Team name |
-| data.data.data.team\_score | Total team score |
-| data.data.data.play\_time | Play time |
-| data.data.data.handicap\_list | Handicap list |
-| data.data.data.odds\_list | Odds list |
+| data.list.channel | Data return channel |
+| data.list.team\_pair | Team name |
+| data.list.team\_score | Total team score |
+| data.list.play\_time | Play time |
+| data.list.handicap\_list | Handicap list |
+| data.list.odds\_list | Odds list |
 
 ### HTTP Response
 
