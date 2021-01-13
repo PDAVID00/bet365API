@@ -6,20 +6,16 @@ description: Please contact us by Telegram to get token.
 
 ## HTTP Request
 
-`POST http://api.bet365data.com/bet365/v0/api/MatchGoal`
+`GET http://api.bet365data.com/bet365/api/matchGoal`
 
-### Request Example
 
-```text
-curl -X POST -H "Authorization: Bearer [token]" http://api.bet365data.com/bet365/v0/api/MatchGoal
-```
 
 ### Request Header
 
 | Parameter | Required? | Description |
 | :--- | :--- | :--- |
 | Authorization | Yes | Please contact to get 7 days free trial |
-| Method | Yes | POST |
+| Method | Yes | GET |
 
 ## Response Parameter
 

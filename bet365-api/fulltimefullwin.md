@@ -6,20 +6,16 @@ description: Please contact us by Telegram to get token.
 
 ## HTTP Request
 
-`POST http://api.bet365data.com/bet365/v0/api/FullTimeFullWin`
+`GET http://api.bet365data.com/bet365/api/fullTimeFullWin`
 
-### Request Example
-
-```text
-curl -X POST -H "Authorization: Bearer [token]" http://api.bet365data.com/bet365/v0/api/FullTimeFullWin
-```
+### 
 
 ### Request Header
 
 | Parameter | Required? | Description |
 | :--- | :--- | :--- |
 | Authorization | Yes | Please contact to get 7 days free trial |
-| Method | Yes | POST |
+| Method | Yes | GET |
 
 ## Response Parameter
 
@@ -40,143 +36,182 @@ curl -X POST -H "Authorization: Bearer [token]" http://api.bet365data.com/bet365
 
 ```text
 {
-    "msg":"Success",
-    "data":{
-        "data":{
-            "channel":[
-                "滚球亚洲盘"
-            ],
-            "data":[
-                {
-                    "team_pair":[
-                        "马格达莱纳联盟",
-                        "希拿体育会"
-                    ],
-                    "team_score":[
-                        "2",
-                        "3"
-                    ],
-                    "paly_time":[
-                        "87:12"
-                    ],
-                    "handicap_list":[
-                        "0.0",
-                        "0.0"
-                    ],
-                    "odds_list":[
-                        "1.500",
-                        "2.500"
-                    ]
-                },
-                {
-                    "team_pair":[
-                        "Sakh (FCS) Esports",
-                        "ICE (ISE) Esports"
-                    ],
-                    "team_score":[
-                        "2",
-                        "1"
-                    ],
-                    "paly_time":[
-                        "07:34"
-                    ],
-                    "handicap_list":[
-                        "-1.5",
-                        "+1.5"
-                    ],
-                    "odds_list":[
-                        "1.950",
-                        "1.750"
-                    ]
-                },
-                {
-                    "team_pair":[
-                        "Belgium (Kray) Esports",
-                        "Brazil (MeLToSiK) Esports"
-                    ],
-                    "team_score":[
-                        "0",
-                        "1"
-                    ],
-                    "paly_time":[
-                        "01:46"
-                    ],
-                    "handicap_list":[
-                        "0.0",
-                        "0.0"
-                    ],
-                    "odds_list":[
-                        "1.900",
-                        "1.800"
-                    ]
-                },
-                {
-                    "team_pair":[
-                        "Portugal (mooneycb) Esports",
-                        "France (labotryas) Esports"
-                    ],
-                    "team_score":[
-                        "1",
-                        "0"
-                    ],
-                    "paly_time":[
-                        "01:48"
-                    ],
-                    "handicap_list":[
-                        "0.0",
-                        "0.0"
-                    ],
-                    "odds_list":[
-                        "1.750",
-                        "1.950"
-                    ]
-                },
-                {
-                    "team_pair":[
-                        "Real Betis (kiser) Esports",
-                        "Valencia (Veep) Esports"
-                    ],
-                    "team_score":[
-                        "2",
-                        "0"
-                    ],
-                    "paly_time":[
-                        "06:58"
-                    ],
-                    "handicap_list":[
-                        "-0.5",
-                        "+0.5"
-                    ],
-                    "odds_list":[
-                        "1.875",
-                        "1.825"
-                    ]
-                },
-                {
-                    "team_pair":[
-                        "Real Sociedad (Fagur) Esports",
-                        "Athletic Bilbao (Alback) Esports"
-                    ],
-                    "team_score":[
-                        "2",
-                        "1"
-                    ],
-                    "paly_time":[
-                        "07:08"
-                    ],
-                    "handicap_list":[
-                        "0.0,-0.5",
-                        "0.0,+0.5"
-                    ],
-                    "odds_list":[
-                        "1.925",
-                        "1.775"
-                    ]
-                }
-            ]
-        },
-        "sync_time":1606791016
-    }
+    "code": 0,
+    "data": {
+        "list": [
+            {
+                "handicap_list": [],
+                "odds_list": [
+                    "4.33",
+                    "2.00",
+                    "3.00"
+                ],
+                "play_time": [
+                    "66:28"
+                ],
+                "team_pair": [
+                    "Karlsruher SC",
+                    "Greuther Furth"
+                ],
+                "team_score": [
+                    "2",
+                    "2"
+                ]
+            },
+            {
+                "handicap_list": [],
+                "odds_list": [],
+                "play_time": [
+                    "69:38"
+                ],
+                "team_pair": [
+                    "Sandhausen",
+                    "Heidenheim"
+                ],
+                "team_score": [
+                    "3",
+                    "0"
+                ]
+            },
+            {
+                "handicap_list": [],
+                "odds_list": [
+                    "3.10",
+                    "3.10",
+                    "2.45"
+                ],
+                "play_time": [
+                    "00:00"
+                ],
+                "team_pair": [
+                    "Chateauroux",
+                    "Guingamp"
+                ],
+                "team_score": [
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "handicap_list": [],
+                "odds_list": [
+                    "6.00",
+                    "4.00",
+                    "1.60"
+                ],
+                "play_time": [
+                    "00:00"
+                ],
+                "team_pair": [
+                    "Dunkerque",
+                    "Troyes"
+                ],
+                "team_score": [
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "handicap_list": [],
+                "odds_list": [
+                    "2.15",
+                    "3.00",
+                    "3.75"
+                ],
+                "play_time": [
+                    "00:00"
+                ],
+                "team_pair": [
+                    "Le Havre",
+                    "Valenciennes"
+                ],
+                "team_score": [
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "handicap_list": [],
+                "odds_list": [
+                    "2.20",
+                    "2.90",
+                    "3.75"
+                ],
+                "play_time": [
+                    "00:00"
+                ],
+                "team_pair": [
+                    "Nancy",
+                    "Rodez"
+                ],
+                "team_score": [
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "handicap_list": [],
+                "odds_list": [
+                    "3.00",
+                    "3.10",
+                    "2.50"
+                ],
+                "play_time": [
+                    ""
+                ],
+                "team_pair": [
+                    "Niort",
+                    "Amiens"
+                ],
+                "team_score": [
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "handicap_list": [],
+                "odds_list": [
+                    "2.30",
+                    "3.00",
+                    "3.50"
+                ],
+                "play_time": [
+                    ""
+                ],
+                "team_pair": [
+                    "Paris FC",
+                    "AC Ajaccio"
+                ],
+                "team_score": [
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "handicap_list": [],
+                "odds_list": [
+                    "2.80",
+                    "2.90",
+                    "2.60"
+                ],
+                "play_time": [
+                    ""
+                ],
+                "team_pair": [
+                    "Pau",
+                    "Chambly Thelle FC"
+                ],
+                "team_score": [
+                    "0",
+                    "0"
+                ]
+            }
+        ],
+        "total": 9,
+        "channel": "Fulltime Result",
+        "sync_time": 1610132262
+    },
+    "msg": "Success"
 }
 ```
 
