@@ -5,8 +5,8 @@
 
 ### Functions
 
-- [X] Provide``bet365``ongoing football score data
-- [X] Provide``bet365``football real-time odds data
+- [X] Provide``bet365``ongoing football/basketball score data
+- [X] Provide``bet365``football/basketball real-time odds data
 - [X] Provide``bet365``automatic login
 - [X] Provide``bet365``read code
 - [X] Provide``bet365``betting
@@ -51,8 +51,8 @@
 
 ### 功能
 
-- [X] 提供``bet365``正在进行的足球赛事比分数据 
-- [X] 提供``bet365``足球滚球实时赔率数据
+- [X] 提供``bet365``正在进行的足球、篮球赛事比分数据 
+- [X] 提供``bet365``足球、篮球滚球实时赔率数据
 - [X] 提供``bet365``自动登录
 - [X] 提供``bet365``打码
 - [X] 提供``bet365``下注
