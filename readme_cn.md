@@ -6,7 +6,7 @@
 
 | 数据源 | 进度 | 预计测试时间 |
 | :--- | :--- | :--- |
-| BET365：[https://www.bet365.com/](https://www.bet365.com/) | 已完成足球 | 请联系客服 |
+| BET365：[https://www.bet365.com/](https://www.bet365.com/) | 已完成足球、篮球 | 请联系客服 |
 | 韦德：[https://www.betvictor33.com](https://www.betvictor33.com) | 已完成足球 | 请联系客服 |
 | NEW BB体育：[https://www.esb9658.com](https://www.esb9658.com) | 已完成足球 | 请联系客服 |
 | 平博：[https://www.pinnacle888.com](https://www.pinnacle888.com) | 已完成足球 | 请联系客服 |
@@ -14,8 +14,8 @@
 
 ## 功能
 
-* [x]  提供`bet365`正在进行的足球赛事比分数据 
-* [x]  提供`bet365`足球滚球实时赔率数据
+* [x]  提供`bet365`正在进行的足球/篮球赛事比分数据 
+* [x]  提供`bet365`足球/篮球滚球实时赔率数据
 * [x]  提供`bet365`自动登录
 * [x] 提供`bet365`打码
 * [x] 提供`bet365`下注

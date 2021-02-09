@@ -2,8 +2,8 @@
 
 ### Functions
 
-* [x] Provide`bet365`ongoing football score data
-* [x] Provide`bet365`football real-time odds data
+* [x] Provide`bet365`ongoing football/basketball score data
+* [x] Provide`bet365`football/basketball real-time odds data
 * [x] Provide`bet365`automatic login
 * [x] Provide`bet365`read code
 * [x] Provide`bet365`betting
