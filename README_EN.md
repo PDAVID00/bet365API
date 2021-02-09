@@ -7,7 +7,7 @@ Welcome to contact us if other APIs or platforms needed or suggested.
 
 | Data Source | Progress | Estimated Test Time |
 | ------ | ------ | ------ |
-| BET365：https://www.bet365.com/ | Football completed | Please contact customer service |
+| BET365：https://www.bet365.com/ | Football/basketball completed | Please contact customer service |
 | Betvictor: https://www.betvictor33.com | Football completed | Please contact customer service |
 | NEW BB Sports: https://www.esb9658.com | Football completed | Please contact customer service |
 | Pinnacle: https://www.pinnacle888.com | Football completed | Please contact customer service |
@@ -17,8 +17,8 @@ Welcome to contact us if other APIs or platforms needed or suggested.
 
 ### Functions
 
-- [X] Provide``bet365``ongoing football score data
-- [X] Provide``bet365``football real-time odds data
+- [X] Provide``bet365``ongoing football/basketball score data
+- [X] Provide``bet365``football/basketball real-time odds data
 - [X] Provide``bet365``automatic login
 - [X] Provide``bet365``read code
 - [X] Provide``bet365``betting
