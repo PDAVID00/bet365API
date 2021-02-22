@@ -6,7 +6,7 @@ description: Please contact us by Telegram to get token.
 
 ## HTTP Request
 
-`GET http://api.bet365data.com/bet365/api/matchGoal`
+`GET http://api.bet365data.com/api/bet365/matchGoal`
 
 
 
