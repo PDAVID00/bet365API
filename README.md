@@ -44,7 +44,7 @@
 
 ### Contact
 
-> [Telegram me](https://t.me/OHR_SOY)
+> [Telegram me](https://t.me/Bet365Data)
 
 
 
@@ -85,5 +85,5 @@
 
 ### 联系方式
 
-> [Telegram一键洽谈](https://t.me/OHR_SOY)
+> [Telegram一键洽谈](https://t.me/Bet365Data)
 
